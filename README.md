@@ -5,18 +5,14 @@
 
 * Calculator app
 
-## 📺 [Picture]
+## 📺 [Demo]
 
-<br>
-<p align="center">
- <--!<img src="https://github.com/flormich/Calculateur/blob/master/Calculateur.JPG">-->
-<br><br><br>
+<p align="center"
+  
+ ![logo](ressource/Calculatrice.gif)
+ 
 </p>
-
-
-
-
-
+<br>
 
 
 ## ©️ Copyright
