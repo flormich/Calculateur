@@ -15,7 +15,8 @@ git clone  https://github.com/flormich/calculateur
 ## 📺 [Demo]
 
 <br>
-<p align="center"  
+<p align="center"
+
  ![logo](ressource/Calculatrice.gif) 
 </p>
 <br>
