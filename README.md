@@ -1,16 +1,22 @@
-## Calculatrice
+## Calculator
 
 
 ## 📃 Description
 
 * Calculator app
 
+## 💻 Installation
+Clone this reposoitory
+
+```
+git clone  https://github.com/flormich/calculateur
+```
+
 ## 📺 [Demo]
 
-<p align="center"
-  
- ![logo](ressource/Calculatrice.gif)
- 
+<br>
+<p align="center"  
+ ![logo](ressource/Calculatrice.gif) 
 </p>
 <br>
 
